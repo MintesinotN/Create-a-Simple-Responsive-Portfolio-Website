@@ -72,7 +72,6 @@ a{
 .about{
     margin: 80px;
     display: flex;
-    /* justify-items: center; */
     align-items: center;
     gap: 30px;
 }
