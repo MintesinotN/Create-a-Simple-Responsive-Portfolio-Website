@@ -34,6 +34,8 @@ a{
     z-index: 4;
 }
 .mobile{
+    margin-top: 0px;
+    padding: 30px 10px 10px;
     display: none;
     border: 1px solid #eee;
     background-color: #eee;
@@ -41,7 +43,9 @@ a{
     position: absolute;
 }
 .mobile_Menu:hover .mobile{
-    display: block;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 .home{
     margin: 80px;
