@@ -57,7 +57,7 @@ To run this project, you only need a web browser. No additional installations ar
 
 **Add Styling:**
 
-    If you want to change the design, edit the `style.css` file to customize colors, fonts, and layouts.
+    If you want to change the design, edit the `index.css` file to customize colors, fonts, and layouts.
 
 ## Screenshots
 
